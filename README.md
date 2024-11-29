@@ -34,8 +34,8 @@ This project is a **Streamlit application** that generates blog content using th
 
 4. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Abdoubenjy/Blog-Writer-with-Llama-2.git
+   cd Blog-Writer-with-Llama-2
 
 ## 📂 Project Structure
 .
